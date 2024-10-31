@@ -1,0 +1,245 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* brand */
+
+.container {
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  margin: auto;
+  align-items: center;
+  margin-top: 30px;
+}
+.a_1 {
+  text-decoration: none;
+}
+.a {
+  text-decoration: none;
+  margin-right: 30px;
+  font-size: 20px;
+}
+.a:hover {
+  color: red;
+}
+
+/* Building digital */
+
+.container1 {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+.building1 {
+  width: 50%;
+}
+
+.building2 {
+  width: 50%;
+}
+
+.h1_1 {
+  color: rgb(204, 23, 83);
+  margin-top: 7px;
+}
+.p {
+  color: gray;
+  margin-top: 10px;
+}
+
+.button {
+  padding: 10px;
+  margin-top: 20px;
+  background-color: rgb(235, 79, 131);
+  border: none;
+  border-radius: 3px;
+}
+
+/*  check out my recent project */
+
+.container2 {
+  background-color: #edf7fa;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 25px;
+  height: 240px;
+}
+.span1 {
+  color: gray;
+}
+.span {
+  margin-left: 90px;
+}
+.h1_2,
+.h1_3 {
+  margin-left: 50px;
+}
+
+.button1 {
+  padding: 10px;
+  margin-right: 15px;
+  border: 2px solid rgb(235, 79, 131);
+  color: rgb(235, 79, 131);
+  border-radius: 3px;
+  margin-top: 25px;
+}
+
+.button2 {
+  padding: 10px;
+  border: none;
+  background-color: white;
+  border-radius: 3px;
+  margin-top: 25px;
+  margin-right: 70px;
+}
+
+/* phone */
+
+.container3 {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+  gap: 50px;
+}
+.p_1 {
+  font-size: 26px;
+  margin-top: 20px;
+  padding: 20px;
+}
+.phones {
+  height: 400px;
+  width: 100%;
+}
+.phone1,
+.phone2 {
+  box-shadow: 0px 0px 15px gray;
+  height: 500px;
+}
+
+.phone1 {
+  margin-top: -130px;
+}
+
+.phone2 {
+  margin-top: -220px;
+}
+
+.phone3,
+.phone4 {
+  box-shadow: 0px 0px 15px gray;
+  height: 500px;
+}
+
+.phone4 {
+  margin-top: -100px;
+}
+
+/* Latest News and Blogs */
+
+.latest {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+  margin-top: 40px;
+}
+.img_red {
+  width: 100%;
+}
+
+.h1_4 {
+  color: #21243d;
+}
+.button3 {
+  padding: 13px;
+  border: 2px solid #ea1d5d;
+  color: #ea1d5d;
+}
+.h6 {
+  color: green;
+}
+
+.container4 {
+  width: 80%;
+  display: flex;
+  margin: auto;
+  gap: 30px;
+  margin-top: 50px;
+}
+
+.clean {
+  display: flex;
+  width: 100%;
+  gap: 20px;
+}
+
+/* lets create */
+
+.container5 {
+  background-color: #ea1d5d;
+  width: 90%;
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 5px;
+  color: white;
+  padding: 40px;
+  text-align: center;
+}
+.input1 {
+  width: 25%;
+  border: none;
+  margin-top: 20px;
+  color: white;
+  background-color: #ea1d5d;
+  border: 2px solid white;
+  padding: 10px;
+}
+
+.input2 {
+  width: 15%;
+  border: none;
+  margin-top: 20px;
+  color: white;
+  background-color: #ea1d5d;
+  border: 2px solid white;
+  padding: 10px;
+}
+
+/* brand_co */
+
+.container6 {
+  background: #21243d;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  margin-top: 70px;
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.a1 {
+  text-decoration: none;
+  margin-right: 30px;
+  font-size: 20px;
+  color: white;
+}
+.a1:hover {
+  color: red;
+}
+.p_3 {
+  background-color: #21243d;
+  color: white;
+  text-align: center;
+  margin-right: 30px;
+  width: 100%;
+}
+
+.p_3:hover {
+  color: red;
+}

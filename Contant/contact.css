@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* brand */
+
+.container {
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  margin: auto;
+  align-items: center;
+  margin-top: 30px;
+}
+.a {
+  text-decoration: none;
+  margin-right: 30px;
+  font-size: 20px;
+}
+.a:hover {
+  color: red;
+}
+
+/* reach out to me */
+.container1 {
+  background-color: #edf7fa;
+  padding: 60px;
+}
+.span1 {
+  color: gray;
+}
+.span {
+  margin-left: 90px;
+}
+.h2 {
+  margin-top: 10px;
+  font-size: 30px;
+  margin-left: 90px;
+}
+
+/* image contact me at */
+.container2 {
+  display: flex;
+  width: 90%;
+  justify-content: center;
+  gap: 30px;
+  margin: auto;
+  margin-top: 80px;
+}
+
+.contact {
+  background-image: url(../Images/Rectangle\ 42.png);
+  background-repeat: no-repeat;
+  width: 482px;
+  height: 389px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-size: cover;
+  text-align: center;
+}
+input {
+  width: 435px;
+  padding: 15px;
+  border-radius: 3px;
+}
+textarea {
+  padding: 35px;
+  width: 400px;
+  border-radius: 3px;
+}
+button {
+  padding: 12px;
+  width: 120px;
+  background-color: palevioletred;
+  border: none;
+  border-radius: 3px;
+}
+
+.maps1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+}
+
+/* lets create */
+
+.container3 {
+  background-color: #ea1d5d;
+  width: 90%;
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 5px;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+.input1 {
+  width: 25%;
+  border: none;
+  margin-top: 20px;
+  color: white;
+  background-color: #ea1d5d;
+  border: 2px solid white;
+}
+
+.input2 {
+  width: 15%;
+  border: none;
+  margin-top: 20px;
+  color: white;
+  background-color: #ea1d5d;
+  border: 2px solid white;
+}
+
+/* brand_co */
+
+.container4 {
+  background: #21243d;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  margin-top: 70px;
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.a1 {
+  text-decoration: none;
+  margin-right: 30px;
+  font-size: 20px;
+  color: white;
+}
+.a1:hover {
+  color: red;
+}
+.p_2 {
+  background-color: #21243d;
+  color: white;
+  text-align: center;
+  margin-right: 30px;
+  width: 100%;
+}
